@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "fuzzyfilepath:toggle"
   },
-  "repository": "https://github.com/atom/fuzzyfilepath",
+  "repository": "https://github.com/joadr/fuzzyfilepath",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
