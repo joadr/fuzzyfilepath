@@ -1,0 +1,19 @@
+{
+  "name": "fuzzyfilepath",
+  "main": "./lib/fuzzyfilepath",
+  "version": "0.0.1",
+  "description": "Import the right path to you files",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "fuzzyfilepath:toggle"
+  },
+  "repository": "https://github.com/atom/fuzzyfilepath",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "path": "^0.12.7"
+  }
+}

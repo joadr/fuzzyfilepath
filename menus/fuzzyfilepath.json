@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fuzzyfilepath",
+        "command": "fuzzyfilepath:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fuzzyfilepath",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fuzzyfilepath:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
