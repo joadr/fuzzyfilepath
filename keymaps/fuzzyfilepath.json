@@ -1,5 +1,5 @@
 {
   ".fuzzy-finder atom-text-editor": {
-    "ctrl-i": "custom:fuzzy-finder-import"
+    "ctrl-i": "fuzzyfilepath:import"
   }
 }
