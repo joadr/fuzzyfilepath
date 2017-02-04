@@ -1,7 +1,7 @@
 {
   "name": "fuzzyfilepath",
   "main": "./lib/fuzzyfilepath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Import the right path to you files",
   "keywords": [],
   "activationCommands": {
