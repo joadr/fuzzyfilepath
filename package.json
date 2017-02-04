@@ -4,9 +4,6 @@
   "version": "1.0.1",
   "description": "Import the right path to you files",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "fuzzyfilepath:toggle"
-  },
   "repository": "https://github.com/joadr/fuzzyfilepath",
   "license": "MIT",
   "engines": {
