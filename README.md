@@ -14,5 +14,7 @@ Press:
 ```
 ctrl-p : opens the file selector
 
-ctrl-i : Import the file from the selector
+ctrl-i : Import the file - import './file'
+
+ctrl-alt-i : Import the file from - import file from './file'
 ```
