@@ -9,12 +9,12 @@ apm install fuzzyfilepath
 ```
 
 ## Usage
-Put the pointer where you want to import the file (normally in the beggining of your file).
+Put the pointer where you want to import the file (normally in the beginning of your file).
 Press:
 ```
 ctrl-p : opens the file selector
 
-ctrl-i : Import the file - import './file'
+ctrl-i / cmd-i : Import the file from - import file from './file'
 
-ctrl-alt-i : Import the file from - import file from './file'
+ctrl-alt-i / cmd-alt-i : Import the file - import './file'
 ```
