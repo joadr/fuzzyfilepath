@@ -1,7 +1,7 @@
 {
   "name": "fuzzyfilepath",
   "main": "./lib/fuzzyfilepath",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "Import the right path to you files",
   "keywords": [],
   "repository": "https://github.com/joadr/fuzzyfilepath",
