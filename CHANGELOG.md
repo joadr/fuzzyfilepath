@@ -15,3 +15,7 @@
 ## 3.0.2 - ../
 
 * ../ paths will no resolve to absolute path
+
+## 3.5.0
+
+* Import the file at the top always
