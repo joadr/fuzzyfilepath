@@ -1,3 +1,5 @@
+# Deprecated as I no longer use ATOM. Might not be working.
+
 # FuzzyFilePath for Atom
 This package autocompletes the file routes for imports with javascript ES6.
 
